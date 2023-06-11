@@ -1,0 +1,61 @@
+.logo {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: var;
+    top: 40%;
+  }
+  
+  header {
+    height: 60px;
+  }
+  
+  .body {
+    background-color:rgb(194, 53, 81);
+  }
+
+  main {
+    height: calc(100vh - 100px);
+    background-color: rgb(194, 53, 81);
+  }
+  
+  footer {
+    height: 25px;
+  }
+  
+  main {
+    overflow-y: auto;
+  }
+
+  h1 {
+    text-align: center;
+    position: relative;
+    height: var;
+    top: 40%;
+    color:rgb(255, 255, 255);
+  }
+
+  p {
+    text-align: center;
+    position: relative;
+    height: var;
+    top: 40%;
+    color: white;
+  }
+
+  
+  footer {
+    text-align: center;
+    color: black;
+  }
+
+  h6 {
+    text-align: center;
+    top: 0%;
+    color: rgb(0, 0, 0);
+
+  }
+
