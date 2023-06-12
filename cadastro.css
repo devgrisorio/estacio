@@ -7,6 +7,10 @@ h6 {
     margin-bottom: 0px;
 }
 
+body {
+    width: 100vw;
+}
+
   .mb-3 {
     text-decoration-color: blueviolet;
   }
