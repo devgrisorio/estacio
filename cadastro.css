@@ -14,3 +14,7 @@ body {
   .mb-3 {
     text-decoration-color: blueviolet;
   }
+
+footer {
+    margint-top: 20px;
+}
