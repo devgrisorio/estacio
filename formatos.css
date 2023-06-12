@@ -22,10 +22,6 @@
     background-color: rgb(194, 53, 81);
   }
   
-  footer {
-    height: 25px;
-  }
-  
   main {
     overflow-y: auto;
   }
@@ -44,18 +40,5 @@
     height: var;
     top: 40%;
     color: white;
-  }
-
-  
-  footer {
-    text-align: center;
-    color: black;
-  }
-
-  h6 {
-    text-align: center;
-    top: 0%;
-    color: rgb(0, 0, 0);
-
   }
 
